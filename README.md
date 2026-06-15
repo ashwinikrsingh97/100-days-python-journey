@@ -1,6 +1,4 @@
-# 100 Days of Python Journey
-
-Learning Python through Angela Yu's 100 Days of Code course.
+# Python Journey
 
 ## Goal
 Transition from Production Support to Cloud/System Administration by building Python automation skills.
