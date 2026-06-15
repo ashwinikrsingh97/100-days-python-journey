@@ -1,27 +1,9 @@
-# Python Journey
+# 100 Days of Python 🐍
 
-## Goal
-Transition from Production Support to Cloud/System Administration by building Python automation skills.
+Following Angela Yu's 100 Days of Code Bootcamp.
 
-## Progress
-
-- [x] Day 1 - Band Name Generator
-- [ ] Day 2
-- [ ] Day 3
-- [ ] Day 4
-- [ ] Day 5
-
-## Technologies
-
-- Python
-- Linux
-- Git
-- GitHub
-- AWS (Future)
-- Automation
-
-## Daily Logs
-
-| Day | Project |
-|-----|---------|
-| 1 | Band Name Generator |
+| Day | Project | Topics |
+|-----|---------|--------|
+| [Day 1](./Day01/README.md) | Band Name Generator | Variables, Strings, Input |
+| [Day 2](./Day02/README.md) | Tip Calculator | Data Types, Math |
+...
