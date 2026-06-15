@@ -1,0 +1,101 @@
+Day01/README.md
+# Day 1 - Band Name Generator
+
+## Objective
+
+Learn the basics of Python programming, including user input, variables, and string concatenation.
+
+## Concepts Learned
+
+* print()
+* input()
+* Variables
+* String Concatenation
+* Basic Program Flow
+
+## Project
+
+Band Name Generator
+
+The program asks the user for:
+
+1. The city they grew up in
+2. The name of their pet
+
+It then combines both values to generate a band name.
+
+## Sample Output
+
+Welcome to the Band Name Generator!
+
+What's the name of the city you grew up in?
+Kolkata
+
+What's your pet's name?
+Tiger
+
+Your band name could be: Kolkata Tiger
+
+## Key Learnings
+
+### 1. Taking User Input
+
+The input() function is used to receive data from the user.
+
+### 2. Storing Data in Variables
+
+Variables help store values for later use.
+
+### 3. Displaying Output
+
+The print() function displays information on the screen.
+
+### 4. String Concatenation
+
+Multiple strings can be combined to create a new string.
+
+## Real-World System Administration Use Case
+
+The same concepts can be used to:
+
+* Accept server names from users
+* Collect application details during deployments
+* Generate hostnames automatically
+* Create simple command-line automation tools
+
+Example:
+A script can ask for:
+
+* Environment (DEV/UAT/PROD)
+* Application Name
+
+And generate a hostname such as:
+
+PROD-WEB01
+
+## Challenges Faced
+
+* Understanding how input() returns text values.
+* Learning how variables store user-provided data.
+
+## Next Steps
+
+* Learn about data types.
+* Perform mathematical operations.
+* Build more interactive programs.
+
+## Repository Progress
+
+* [x] Day 1 Completed
+* [ ] Day 2
+* [ ] Day 3
+* [ ] Day 4
+* [ ] Day 5
+
+## Time Spent
+
+Approximately: 1 hour
+
+## Reflection
+
+Today I started my Python learning journey. I learned how to interact with users through the terminal, store information in variables, and combine strings to create meaningful output. These fundamentals form the foundation for automation and scripting tasks used in System Administration and Cloud Engineering.
