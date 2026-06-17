@@ -20,8 +20,8 @@ Portfolio → [ashwinikrsingh97.github.io](https://ashwinikrsingh97.github.io)
 | Day | Project | Core Topics | Status |
 |-----|---------|------------|--------|
 | [Day 01](./Day01/README.md) | Band Name Generator | `print()`, `input()`, Variables, Strings | ✅ |
-| [Day 02](./Day02/README.md) | Tip Calculator | Data Types, `int()`, `float()`, Math Ops | ⬜ |
-| [Day 03](./Day03/README.md) | Treasure Island | `if/elif/else`, Conditional Logic | ⬜ |
+| [Day 02](./Day02/README.md) | Tip Calculator | Data Types, `int()`, `float()`, Math Ops | ✅ |
+| [Day 03](./Day03/README.md) | Treasure Island | `if/elif/else`, Conditional Logic | ✅ |
 | [Day 04](./Day04/README.md) | Rock Paper Scissors | Lists, Random Module | ⬜ |
 | [Day 05](./Day05/README.md) | Password Generator | Loops, `range()`, `random.shuffle()` | ⬜ |
 | [Day 06](./Day06/README.md) | Escaping the Maze | Functions, Code Blocks | ⬜ |
