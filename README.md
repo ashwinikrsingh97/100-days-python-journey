@@ -122,7 +122,7 @@ Portfolio → [ashwinikrsingh97.github.io](https://ashwinikrsingh97.github.io)
 
 ---
 
-## 🛠️ Tech Stack Used Across This Journey
+## 🛠️ Tech Stack To Be Used Across This Journey
 
 `Python 3` · `Flask` · `pandas` · `NumPy` · `BeautifulSoup` · `Selenium` · `Tkinter` · `SQLite` · `REST APIs` · `Git`
 
